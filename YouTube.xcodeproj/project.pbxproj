@@ -389,6 +389,7 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				INFOPLIST_FILE = YouTube/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				PRODUCT_BUNDLE_IDENTIFIER = tk.gamesolc.YouTube;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -401,6 +402,7 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				INFOPLIST_FILE = YouTube/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				PRODUCT_BUNDLE_IDENTIFIER = tk.gamesolc.YouTube;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -413,6 +415,7 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				INFOPLIST_FILE = YouTubeTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				PRODUCT_BUNDLE_IDENTIFIER = tk.gamesolc.YouTubeTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/YouTube.app/Contents/MacOS/YouTube";
@@ -426,6 +429,7 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				INFOPLIST_FILE = YouTubeTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				PRODUCT_BUNDLE_IDENTIFIER = tk.gamesolc.YouTubeTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/YouTube.app/Contents/MacOS/YouTube";
@@ -438,6 +442,7 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				INFOPLIST_FILE = YouTubeUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				PRODUCT_BUNDLE_IDENTIFIER = tk.gamesolc.YouTubeUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_TARGET_NAME = YouTube;
@@ -450,6 +455,7 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				INFOPLIST_FILE = YouTubeUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				PRODUCT_BUNDLE_IDENTIFIER = tk.gamesolc.YouTubeUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_TARGET_NAME = YouTube;
