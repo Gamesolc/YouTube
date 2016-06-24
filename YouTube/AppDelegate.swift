@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  YouTube
-//
-//  Created by Liam Mendes on 24/06/2016.
-//  Copyright © 2016 Liam Mendes. All rights reserved.
-//
-
 import Cocoa
 
 @NSApplicationMain
